@@ -1,0 +1,23 @@
+*.iml
+.gradle/
+.kotlin/
+/.idea/
+/build
+app/build/
+/captures
+.externalNativeBuild
+.cxx
+.DS_Store
+
+# Machine-specific: points at wherever your Android SDK happens to live.
+local.properties
+
+# Release signing — NEVER commit these. Publishing either would let anyone
+# ship an update over your installed app, and the key cannot be regenerated.
+*.jks
+*.keystore
+keystore.properties
+
+# Built APKs belong on a Releases page, not in git history.
+*.apk
+*.aab
