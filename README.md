@@ -1,4 +1,4 @@
-# Kickr HIIT
+# Wahoo Kickr HiiT Android app
 
 A dedicated Android app for interval training on a **Wahoo Kickr Core v2** (Zwift Cog + Zwift Click), with no subscription and no third-party service. It talks to the trainer over Bluetooth LE FTMS, sets the target itself, reads a Bluetooth heart-rate strap, and draws the effort against the plan while you ride.
 
