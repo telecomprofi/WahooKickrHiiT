@@ -14,6 +14,8 @@ A dedicated Android app for interval training on a **Wahoo Kickr Core v2** (Zwif
 - **Spoken coaching**: a countdown into every sprint, and the result read back when it ends.
 - **Music matched to cadence**: tracks are analysed for tempo, playback is nudged (within a limit you set) so the beat lands on the pedal stroke, and every track is levelled to EBU R128 so none of them startles you in headphones.
 
+<img src="https://github.com/telecomprofi/WahooKickrHiiT/blob/main/img/WahooKickrHiiT_01.jpg" width=30% height=30%> <img src="https://github.com/telecomprofi/WahooKickrHiiT/blob/main/img/WahooKickrHiit_02.jpg" width=30% height=30%> <img src="https://github.com/telecomprofi/WahooKickrHiiT/blob/main/img/WahooKickrHiiT_03.jpg" width=30% height=30%> <img src="https://github.com/telecomprofi/WahooKickrHiiT/blob/main/img/WahooKickrHiiT_04.jpg" width=30% height=30%> <img src="https://github.com/telecomprofi/WahooKickrHiiT/blob/main/img/WahooKickrHiiT_05.jpg" width=30% height=30%> <img src="https://github.com/telecomprofi/WahooKickrHiiT/blob/main/img/WahooKickrHiiT_06.jpg" width=30% height=30%> <img src="https://github.com/telecomprofi/WahooKickrHiiT/blob/main/img/WahooKickrHiiT_07.jpg" width=30% height=30%> <img src="https://github.com/telecomprofi/WahooKickrHiiT/blob/main/img/WahooKickrHiiT_08.jpg" width=30% height=30%>
+
 ## Numbers you have to supply
 
 FTP, in Settings. Every target in every workout is a share of it. There is no ramp test in the app: type a figure, ride a session, and adjust it by five watts if the recoveries felt like work or the intervals felt easy.
