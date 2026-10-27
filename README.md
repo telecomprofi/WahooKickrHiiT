@@ -20,9 +20,17 @@ FTP, in Settings. Every target in every workout is a share of it. There is no ra
 
 ## Building
 
+Debug build
+
 ```
-./gradlew test assembleRelease
-adb install -r app/build/outputs/apk/release/app-release.apk
+./gradlew test assembleDebug   && adb install -r app/build/outputs/apk/debug/app-debug.apk
+
+```
+
+Release build
+
+```
+./gradlew test assembleRelease  && adb install -r app/build/outputs/apk/release/app-release.apk
 ```
 
 Release signing reads `keystore.properties` at the project root (`storeFile` / `storePassword` / `keyAlias` / `keyPassword`). That file and the keystore it points at are gitignored and must stay that way: publishing either would let anyone ship an update over your installed app.
